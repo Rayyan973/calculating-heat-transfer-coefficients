@@ -98,3 +98,5 @@ avgTable.add_column("Aluminium", [round(avghExpAluminium, 3), round(avghTheoryAl
 
 print("AVERAGE VALUES")
 print(avgTable)
+
+#if you want more accuracy, consider changing the round() values to contain more decimals.
